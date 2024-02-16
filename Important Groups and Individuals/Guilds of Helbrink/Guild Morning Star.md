@@ -1,1 +1,1 @@
-- [[Delphi, The Mighty]] 
+- [Delphi, The Mighty](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Delphi,%20The%20Mighty.md) 

@@ -12,8 +12,8 @@ Venelites is a term used for any individual who lives in the great oasis city of
 
 ## Cities of Hadash
 
-- [[Venelio]]
-- [[The Gothraka Wall]]
+- [Venelio](Continents/Chardon/Hadash/Venelio.md)
+- [The Gothraka Wall](Continents/Chardon/Hadash/The%20Gothraka%20Wall.md)
 
 ## Image Board
 

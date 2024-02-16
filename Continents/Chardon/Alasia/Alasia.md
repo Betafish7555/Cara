@@ -14,10 +14,10 @@ Today, Alasia is known throughout the world for its powerful magic, mysterious w
 
 ## Cities of Alasia
 
-- [[Faron]]
-- [[Helbrink]]
-- [[Fenhaven]]
-- [[Ganamede]] 
+- [Faron](Continents/Chardon/Alasia/Faron.md)
+- [Helbrink](Continents/Chardon/Alasia/Helbrink.md)
+- [Fenhaven](Continents/Chardon/Alasia/Fenhaven.md)
+- [Ganamede](Continents/Chardon/Alasia/Ganamede.md) 
 
 ## Image Board
 

@@ -1,1 +1,1 @@
-- [[Mother Yun]] 
+- [Mother Yun](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Mother%20Yun.md) 

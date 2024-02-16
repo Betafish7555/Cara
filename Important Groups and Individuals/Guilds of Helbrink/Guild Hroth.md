@@ -1,1 +1,1 @@
-- [[Roran the Steel-Fist]] 
+- [Roran the Steel-Fist](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Roran%20the%20Steel-Fist.md) 

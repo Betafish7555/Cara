@@ -1,4 +1,4 @@
-- [[Elder Gods]]
-- [[The New Gods]]
-- [[Supreme Dieties]]
-- [[Elder Demons]]
+- [Elder Gods](Chapters/Elder%20Gods.md)
+- [The New Gods](Chapters/The%20New%20Gods.md)
+- [Supreme Dieties](Chapters/Supreme%20Dieties.md)
+- [Elder Demons](Chapters/Elder%20Demons.md)

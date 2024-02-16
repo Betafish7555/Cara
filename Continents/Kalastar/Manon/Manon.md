@@ -1,1 +1,1 @@
-- [[Derana]]
+- [Derana](Continents/Kalastar/Manon/Derana.md)

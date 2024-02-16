@@ -1,1 +1,1 @@
-- [[Lushin]]
+- [Lushin](Continents/Kalastar/Calren/Lushin.md)

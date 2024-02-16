@@ -1,1 +1,1 @@
-- [[Gorala]] 
+- [Gorala](Important%20Groups%20and%20Individuals/The%20Quartresi/Gorala.md) 

@@ -1,8 +1,8 @@
 # Kalastar
 
-- [[Karn]]
-- [[Breya]]
-- [[Koira]]
-- [[Calren]]
-- [[Manon]]
-- [[Bhamag]]
+- [Karn](Chapters/Karn.md)
+- [Breya](Chapters/Breya.md)
+- [Koira](Chapters/Koira.md)
+- [Calren](Chapters/Calren.md)
+- [Manon](Chapters/Manon.md)
+- [Bhamag](Chapters/Bhamag.md)

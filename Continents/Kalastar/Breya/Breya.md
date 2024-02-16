@@ -1,3 +1,3 @@
-- [[The Pillars of Mon]]
-- [[The Frozen Isles]]
-- [[The Great Mirror]]
+- [The Pillars of Mon](Continents/Kalastar/Breya/The%20Pillars%20of%20Mon.md)
+- [The Frozen Isles](Continents/Kalastar/Breya/The%20Frozen%20Isles.md)
+- [The Great Mirror](Continents/Kalastar/Breya/The%20Great%20Mirror.md)

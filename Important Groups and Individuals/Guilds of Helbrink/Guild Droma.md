@@ -1,1 +1,1 @@
-- [[Ellywick Tumblestrum]] 
+- [Ellywick Tumblestrum](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Ellywick%20Tumblestrum.md) 

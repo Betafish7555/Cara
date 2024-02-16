@@ -1,5 +1,5 @@
-- [[Guilds of Helbrink]]
-- [[The Order of the Lily]]
-- [[Draxas Ire]]
-- [[The Council of Summer]]
-- [[The Quartresi]] 
+- [Guilds of Helbrink](Chapters/Guilds%20of%20Helbrink.md)
+- [The Order of the Lily](Chapters/The%20Order%20of%20the%20Lily.md)
+- [Draxas Ire](Chapters/Draxas%20Ire.md)
+- [The Council of Summer](Chapters/The%20Council%20of%20Summer.md)
+- [The Quartresi](Chapters/The%20Quartresi.md) 

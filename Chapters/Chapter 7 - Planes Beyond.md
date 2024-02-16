@@ -1,7 +1,7 @@
-- [[Mechanus]]
-- [[The Feywild]]
-- [[The Astral Plane]]
-- [[The Void]]
-- [[The Abyss]]
-- [[The Upper Planes]]
-- [[The Outer Ring]]
+- [Mechanus](Chapters/Mechanus.md)
+- [The Feywild](Chapters/The%20Feywild.md)
+- [The Astral Plane](Chapters/The%20Astral%20Plane.md)
+- [The Void](Chapters/The%20Void.md)
+- [The Abyss](Chapters/The%20Abyss.md)
+- [The Upper Planes](Chapters/The%20Upper%20Planes.md)
+- [The Outer Ring](Chapters/The%20Outer%20Ring.md)

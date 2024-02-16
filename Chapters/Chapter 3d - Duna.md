@@ -1,5 +1,5 @@
-- [[Ober]]
-- [[The Ridge]]
-- [[The Wastes]]
-- [[Tyrant's Keep]]
-- [[Xeron]]
+- [Ober](Chapters/Ober.md)
+- [The Ridge](Chapters/The%20Ridge.md)
+- [The Wastes](Chapters/The%20Wastes.md)
+- [Tyrant's Keep](Chapters/Tyrant's%20Keep.md)
+- [Xeron](Chapters/Xeron.md)

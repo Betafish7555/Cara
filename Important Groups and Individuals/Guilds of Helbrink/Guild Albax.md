@@ -1,1 +1,1 @@
-- [[Altair the Wise]] 
+- [Altair the Wise](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Altair%20the%20Wise.md) 

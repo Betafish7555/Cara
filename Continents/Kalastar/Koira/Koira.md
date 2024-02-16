@@ -1,1 +1,1 @@
-- [[Tero]]
+- [Tero](Continents/Kalastar/Koira/Tero.md)

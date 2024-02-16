@@ -1,3 +1,3 @@
-- [[Dhigran]]
-- [[Kiggrum]]
-- [[Hoihga]]
+- [Dhigran](Continents/Kalastar/Karn/Dhigran.md)
+- [Kiggrum](Continents/Kalastar/Karn/Kiggrum.md)
+- [Hoihga](Continents/Kalastar/Karn/Hoihga.md)

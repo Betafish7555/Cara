@@ -1,1 +1,1 @@
-- [[Ono, the High Arbiter]] 
+- [Ono, the High Arbiter](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Ono,%20the%20High%20Arbiter.md) 

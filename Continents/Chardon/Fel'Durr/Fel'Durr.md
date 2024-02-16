@@ -14,9 +14,9 @@ On the southern border of Fel’Durr just beyond its capital of Lo’thial, is t
 
 ## Cities of Fel'Durr
 
-- [[Lo'thial]]
-- [[Prismon]]
-- [[Kor]]
+- [Lo'thial](Continents/Chardon/Fel'Durr/Lo'thial.md)
+- [Prismon](Continents/Chardon/Fel'Durr/Prismon.md)
+- [Kor](Continents/Chardon/Fel'Durr/Kor.md)
 
 ## Image Board
 

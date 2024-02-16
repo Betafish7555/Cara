@@ -1,13 +1,13 @@
-- [[Guild Morning Star]]
-- [[Guild Achilles]]
-- [[Guild Andromeda]]
-- [[Guild Ronan]]
-- [[Guild Hroth]]
-- [[Guild Albax]]
-- [[Guild Felden]]
-- [[Guild Belfast]]
-- [[Guild Droma]]
-- [[Guild Thunderwing]]
-- [[Guild Arden]]
-- [[Guild Munax]]
-- [[Guild Grandoir]]
+- [Guild Morning Star](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Guild%20Morning%20Star.md)
+- [Guild Achilles](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Guild%20Achilles.md)
+- [Guild Andromeda](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Guild%20Andromeda.md)
+- [Guild Ronan](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Guild%20Ronan.md)
+- [Guild Hroth](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Guild%20Hroth.md)
+- [Guild Albax](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Guild%20Albax.md)
+- [Guild Felden](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Guild%20Felden.md)
+- [Guild Belfast](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Guild%20Belfast.md)
+- [Guild Droma](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Guild%20Droma.md)
+- [Guild Thunderwing](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Guild%20Thunderwing.md)
+- [Guild Arden](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Guild%20Arden.md)
+- [Guild Munax](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Guild%20Munax.md)
+- [Guild Grandoir](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Guild%20Grandoir.md)

@@ -1,1 +1,1 @@
-- [[Grand Master Juno]] 
+- [Grand Master Juno](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Grand%20Master%20Juno.md) 

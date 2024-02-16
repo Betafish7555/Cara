@@ -1,3 +1,3 @@
-- [[The Primoridal Empire]]
-- [[The Ring of Glass]]
-- [[Testeran Peninsula]]
+- [The Primoridal Empire](Chapters/The%20Primoridal%20Empire.md)
+- [The Ring of Glass](Chapters/The%20Ring%20of%20Glass.md)
+- [Testeran Peninsula](Chapters/Testeran%20Peninsula.md)

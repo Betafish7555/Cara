@@ -1,1 +1,1 @@
-- [[Gorat]] 
+- [Gorat](Continents/Kalastar/Bhamag/Gorat.md) 

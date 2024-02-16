@@ -1,1 +1,1 @@
-- [[Gonora, the Red-Faced]] 
+- [Gonora, the Red-Faced](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/Gonora,%20the%20Red-Faced.md) 

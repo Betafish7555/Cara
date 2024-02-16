@@ -1,2 +1,2 @@
-- [[Lissanaea Witchteg]] 
-- [[Calashani Kal'korra]] 
+- [Lissanaea Witchteg](Important%20Groups%20and%20Individuals/The%20Council%20of%20Summer/Lissanaea%20Witchteg.md) 
+- [Calashani Kal'korra](Important%20Groups%20and%20Individuals/The%20Council%20of%20Summer/Calashani%20Kal'korra.md) 

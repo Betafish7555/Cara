@@ -4,14 +4,14 @@ Chardon is a continent on the western hemisphere of Cara, covering a stretch of 
 
 ## Countries of Chardon
 
-- [[Alasia]]
-- [[Yonsuo]]
-- [[Fel'Durr]]
-- [[Hadash]]
-- [[The City of Steel]]
-- [[The Pit]]
-- [[Rokarsh]]
-- [[Yuvinya]]
+- [Alasia](Chapters/Alasia.md)
+- [Yonsuo](Chapters/Yonsuo.md)
+- [Fel'Durr](Chapters/Fel'Durr.md)
+- [Hadash](Chapters/Hadash.md)
+- [The City of Steel](Chapters/The%20City%20of%20Steel.md)
+- [The Pit](Chapters/The%20Pit.md)
+- [Rokarsh](Chapters/Rokarsh.md)
+- [Yuvinya](Chapters/Yuvinya.md)
 
 
 

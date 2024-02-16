@@ -1,2 +1,2 @@
-- [[Yashon]] 
-- [[Shivian]]
+- [Yashon](Important%20Groups%20and%20Individuals/The%20Order%20of%20the%20Lily/Yashon.md) 
+- [Shivian](Important%20Groups%20and%20Individuals/The%20Order%20of%20the%20Lily/Shivian.md)

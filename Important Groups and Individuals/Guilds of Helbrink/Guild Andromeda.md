@@ -1,1 +1,1 @@
-- [[High Mage Alabastar]] 
+- [High Mage Alabastar](Important%20Groups%20and%20Individuals/Guilds%20of%20Helbrink/High%20Mage%20Alabastar.md) 
